@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ ! Excerpted from "Hello, Android! 2e",
+ ! published by The Pragmatic Bookshelf.
+ ! Copyrights apply to this code. It may not be used to create training material, 
+ ! courses, books, articles, and the like. Contact us if you are in doubt.
+ ! We make no guarantees that this code is fit for any purpose. 
+ ! Visit http://www.pragmaticprogrammer.com/titles/eband2 for more book information.
+-->
+
+<resources>
+   <string name="app_name">MyCounter</string>
+   <string name="edit_name">Edit</string>
+   <string name="counter_name">Counter</string>
+   <string name="about_name">About</string>
+   <string name="main_title">Personal Counter</string>
+   <string name="continue_label">Edit</string>
+   <string name="new_game_label">Counter</string>
+   <string name="about_label">About</string>
+   <string name="exit_label">Exit</string>
+   <string name="about_title">About</string>
+   <string name="about_text">\
+       Смерть - причина перемен. Она очищает 
+       старое, чтобы открыть дорогу новому. 
+       Сейчас новое - это вы, но когда-то 
+       (не очень-то и долго осталось) - вы 
+       станете старым и вас очистят. 
+       Простите за такой драматизм, 
+       но это правда. 
+</string>
+   
+   
+</resources>
